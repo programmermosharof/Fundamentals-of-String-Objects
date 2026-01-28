@@ -1,8 +1,8 @@
-// let person = {
-//     name: "Mosharof",
-//     age: 25,
-//     skill: "Frontend Developer"
-// };
+let person = {
+    name: "Mosharof",
+    age: 25,
+    skill: "Frontend Developer"
+};
 
 // console.log();
 
