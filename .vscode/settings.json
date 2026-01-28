@@ -1,0 +1,22 @@
+{
+  "cSpell.words": [
+    "captal",
+    "Dhak",
+    "Dhanmondi",
+    "disstict",
+    "divtion",
+    "Kishorgonj"
+  ],
+  "[snippets]": {
+    "editor.snippets.codeActions.enabled": false
+  },
+  "editor.snippets.codeActions.enabled": false,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.hover.enabled": "on",
+  "editor.hover.above": true,
+  "js/ts.hover.maximumLength": 500,
+  "editor.parameterHints.enabled": true
+}
